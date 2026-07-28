@@ -1,1 +1,3 @@
-pyuic5 -o ui.py ui.ui
+version https://git-lfs.github.com/spec/v1
+oid sha256:db09fbf73be4b1d3d3d42c75fc4eb4863e7bc7b1da2e051bf1ae31b7b7b1cf85
+size 23

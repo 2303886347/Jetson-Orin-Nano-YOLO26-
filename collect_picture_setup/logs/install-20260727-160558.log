@@ -1,0 +1,9 @@
+Python and ROS 2 imports: OK
+[INFO] [1785139560.772496424] [collect_picture_install_check]: Subscribed to camera topic: /image_raw
+ROS 2 node construction: OK
+ROS image conversion: OK
+Qt offscreen UI construction: OK
+Primary camera topic: /image_raw
+Secondary camera topic: disabled
+Installation verification: OK
+Verification completed.

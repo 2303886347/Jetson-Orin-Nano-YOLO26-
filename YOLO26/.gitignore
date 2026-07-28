@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+datasets/*
+!datasets/.gitkeep
+runs/*
+!runs/.gitkeep
+models/deployed/*
+!models/deployed/.gitkeep
+setup/logs/*
+!setup/logs/.gitkeep
+setup/wheels/*
+!setup/wheels/.gitkeep
